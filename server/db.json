@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "openRouterKey": "",
+    "unsplashKey": "",
+    "pexelsKey": "",
+    "supabaseUrl": "",
+    "supabaseAnonKey": "",
+    "defaultModel": "google/gemini-2.5-flash"
+  },
+  "presentations": []
+}
