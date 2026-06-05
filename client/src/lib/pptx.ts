@@ -53,11 +53,13 @@ export async function generatePPTX(pres: Presentation) {
   };
 
   // Helper to add background
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const setBackground = (slide: any) => {
     slide.background = { fill: theme.bg };
   };
 
   // Helper to add a slide header
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const addSlideHeader = (slide: any, title: string) => {
     slide.addText(title, {
       x: 0.8,
@@ -73,7 +75,7 @@ export async function generatePPTX(pres: Presentation) {
   };
 
   // Generate each slide
-  pres.slides.forEach((slideContent, idx) => {
+  pres.slides.forEach((slideContent) => {
     const slide = pptx.addSlide();
     setBackground(slide);
 
@@ -343,6 +345,7 @@ export async function generatePPTX(pres: Presentation) {
             }));
           });
 
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
           slide.addTable(tableRows as any, {
             x: 0.8,
             y: 1.8,

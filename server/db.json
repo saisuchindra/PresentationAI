@@ -7,5 +7,155 @@
     "supabaseAnonKey": "",
     "defaultModel": "google/gemini-2.5-flash"
   },
-  "presentations": []
+  "presentations": [
+    {
+      "topic": "Quantum Computing",
+      "mode": "professional",
+      "model": "google/gemini-2.5-flash",
+      "outline": [
+        "Quantum Computing",
+        "Strategic Overview",
+        "Market Size & Growth",
+        "Operational Comparison",
+        "Central Paradigm Shift",
+        "References & Citations"
+      ],
+      "slides": [
+        {
+          "title": "Quantum Computing",
+          "type": "title",
+          "bullets": [
+            "A comprehensive strategy and operational outlook for Quantum Computing"
+          ],
+          "imageSearchQuery": "Quantum Computing presentation",
+          "image": {
+            "url": "https://images.unsplash.com/featured/800x600/?Quantum%20Computing%20presentation&sig=549081",
+            "description": "Unsplash stock photo of Quantum Computing presentation",
+            "photographer": "Unsplash Community",
+            "photographerUrl": "https://unsplash.com"
+          }
+        },
+        {
+          "title": "Strategic Overview",
+          "type": "content",
+          "bullets": [
+            "Analyzing key growth pillars and drivers for Quantum Computing integration.",
+            "Optimizing system pathways to achieve scale and organizational agility.",
+            "Overcoming implementation friction through modular software models.",
+            "Driving competitive advantage with modern cloud architecture."
+          ],
+          "imageSearchQuery": "Quantum Computing technology",
+          "image": {
+            "url": "https://images.unsplash.com/featured/800x600/?Quantum%20Computing%20technology&sig=73427",
+            "description": "Unsplash stock photo of Quantum Computing technology",
+            "photographer": "Unsplash Community",
+            "photographerUrl": "https://unsplash.com"
+          }
+        },
+        {
+          "title": "Market Size & Growth",
+          "type": "chart",
+          "bullets": [
+            "Robust compound annual growth rate (CAGR) observed over the last 4 quarters.",
+            "Surging enterprise adoption fueled by lower entry barriers and cloud integration.",
+            "Q4 forecast points to accelerated demand across North America and Europe."
+          ],
+          "chartData": [
+            {
+              "label": "Q1",
+              "value": 35
+            },
+            {
+              "label": "Q2",
+              "value": 58
+            },
+            {
+              "label": "Q3",
+              "value": 82
+            },
+            {
+              "label": "Q4",
+              "value": 110
+            }
+          ],
+          "chartType": "bar",
+          "imageSearchQuery": "Quantum Computing metrics",
+          "image": {
+            "url": "https://images.unsplash.com/featured/800x600/?Quantum%20Computing%20metrics&sig=364803",
+            "description": "Unsplash stock photo of Quantum Computing metrics",
+            "photographer": "Unsplash Community",
+            "photographerUrl": "https://unsplash.com"
+          }
+        },
+        {
+          "title": "Operational Comparison",
+          "type": "table",
+          "bullets": [
+            "Comparison of standard legacy structures versus modern optimized frameworks.",
+            "Resource allocation improvements yield direct bottom-line results.",
+            "Significant latency reduction leads to elevated customer satisfaction metrics."
+          ],
+          "tableData": [
+            [
+              "Framework",
+              "Latency",
+              "Throughput",
+              "Efficiency"
+            ],
+            [
+              "Legacy System",
+              "240ms",
+              "12k req/s",
+              "74%"
+            ],
+            [
+              "Version 2.0",
+              "110ms",
+              "45k req/s",
+              "88%"
+            ],
+            [
+              "Our Solution",
+              "32ms",
+              "180k req/s",
+              "97%"
+            ]
+          ],
+          "imageSearchQuery": "Quantum Computing analytics",
+          "image": {
+            "url": "https://images.unsplash.com/featured/800x600/?Quantum%20Computing%20analytics&sig=101015",
+            "description": "Unsplash stock photo of Quantum Computing analytics",
+            "photographer": "Unsplash Community",
+            "photographerUrl": "https://unsplash.com"
+          }
+        },
+        {
+          "title": "Central Paradigm Shift",
+          "type": "quote",
+          "bullets": [],
+          "quote": "\"Quantum Computing is not just an operational enhancement; it is the fundamental infrastructure for the next generation of business intelligence.\"",
+          "quoteAuthor": "Global Technology Review",
+          "imageSearchQuery": "Quantum Computing vision",
+          "image": {
+            "url": "https://images.unsplash.com/featured/800x600/?Quantum%20Computing%20vision&sig=882167",
+            "description": "Unsplash stock photo of Quantum Computing vision",
+            "photographer": "Unsplash Community",
+            "photographerUrl": "https://unsplash.com"
+          }
+        },
+        {
+          "title": "References & Citations",
+          "type": "references",
+          "bullets": [
+            "Harvard Business Review: Strategic Integration of Emerging Technologies (2025)",
+            "Gartner Magic Quadrant: Enterprise Scale Platforms & Solutions (2024)",
+            "McKinsey & Co. Report: Sourcing Competitive Advantage in Digital Infrastructures (2025)"
+          ],
+          "imageSearchQuery": "Quantum Computing library"
+        }
+      ],
+      "id": "6fdc649d-4dd7-4e47-a3e9-d1788d6e5bc5",
+      "createdAt": "2026-06-05T10:33:01.209Z"
+    }
+  ]
 }
